@@ -1,2 +1,0 @@
-# vordur
-Vörður demo
